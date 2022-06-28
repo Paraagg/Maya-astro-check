@@ -1,4 +1,4 @@
-"""Astrovalidate Training Ticket."""
+"""Astrovalidate check"""
 
 from maya import cmds
 
